@@ -8,16 +8,16 @@
   <tr>
     <td padding="15">
       <pre style="color: #00f5a0; font-family: 'Courier New', Courier, monospace; margin: 0;">
-┌────────────────────────────────────────────────────┐
-│  > NAME  : Ahsan Habib Muaz                   ㅤ             │
-│  > ROLE    : Developer, App Modder               ㅤ          │
-│  > ORIGIN  : Bangladesh                                ㅤ    │ 
-│  > FOCUS   : WhatsApp bot, Website Design                ㅤ  │
-│  > STACK   : React, Node.js                             ㅤ   │
-│  > STATUS  : Doin crazy stuff besides coding             ㅤ  │
-│  > CONTACT : ahsanhabibmuaz@duck.com                     ㅤ  │
-│  > BIO     : https://linktr.ee/ahsanhabibmuaz           ㅤ   │
-└────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│  > NAME    : Ahsan Habib Muaz                   │
+│  > ROLE    : Developer, App Modder              │
+│  > ORIGIN  : Bangladesh                         │ 
+│  > FOCUS   : WhatsApp bot, Website Design       │
+│  > STACK   : React, Node.js                     │
+│  > STATUS  : Doin crazy stuff besides coding    │
+│  > CONTACT : ahsanhabibmuaz@duck.com            │
+│  > BIO     : https://linktr.ee/ahsanhabibmuaz   │
+└──────────────────────────────────────────┘
       </pre>
     </td>
   </tr>
