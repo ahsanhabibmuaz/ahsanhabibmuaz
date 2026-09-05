@@ -1,32 +1,46 @@
-<h1 align="center">Hi 👋, I'm Muaz</h1>
-<h3 align="center">A passionate Frontend Developer crafting beautiful digital experiences from Bangladesh 🇧🇩</h3>
-
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahsanhabibmuaz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1518&height=150&section=header&text=AHSAN%20HABIB%20MUAZ&fontSize=65&fontColor=00f5a0&fontAlignY=50&stroke=00f5a0&strokeWidth=1" width="100%" alt="Ahsan Habib Muaz Header" />
 </p>
 
----
+<!-- TERMINAL / ABOUT ME HUD -->
+<table width="100%" style="background-color: #0d1518; border: 1px solid #00f5a0; border-radius: 8px;">
+  <tr>
+    <td padding="15">
+      <pre style="color: #00f5a0; font-family: 'Courier New', Courier, monospace; margin: 0;">
+┌────────────────────────────────────────────────────────────────────────┐
+│  > NAME  : Ahsan Habib Muaz                                                         │
+│  > ROLE    : Developer, App Modder                                                  │
+│  > ORIGIN  : Bangladesh                                                             │
+│  > FOCUS   : WhatsApp bot, Website Design                                           │
+│  > STACK   : React, Node.js                                                         │
+│  > STATUS  : Doin crazy stuff besides coding                                        │
+│  > CONTACT : ahsanhabibmuaz@duck.com                                                │
+│  > BIO     : https://linktr.ee/ahsanhabibmuaz                                       │
+└────────────────────────────────────────────────────────────────────────┘
+      </pre>
+    </td>
+  </tr>
+</table>
 
-### 🌟 About Me
+<br />
 
-- 🌱 Currently diving deep into **modern frontend development**
-- 📫 How to reach me: **ahsanhabibmuaz@duck.com**
-- 📄 Know about my experiences: [WikiAlpha](https://wikialpha.org/wiki/Ahsan_Habib_Muaz)
-- 🌐 **All my links in one place**: [drift.rip/muaz](https://drift.rip/muaz)
-
----
-
-### Connect With Me
+<!-- QUICK LINKS & SOCIALS -->
+<p align="center">
+  <a href="https://drift.rip/muaz" target="_blank">
+    <img src="https://img.shields.io/badge/All%20Links-drift.rip/muaz-faaf77?style=for-the-badge&logoColor=0a1218&labelColor=0d1518" alt="All Links" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://twitter.com/ahsanhabibmuaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="34" width="34" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahsanhabibmuaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="34" width="34" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/ahsanhabibmuaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="34" width="34" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ahsanhabibmuaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="34" width="34" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://youtube.com/@AHSANHABIBMUAZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="34" width="34" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.behance.net/ahsanhabibmuaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="34" width="34" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://bsky.app/profile/ahsanhabibmuaz.bsky.social" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bluesky.svg" alt="Bluesky" height="34" width="34" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://quora.com/ahsanhabibmuaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/quora.svg" alt="Quora" height="34" width="34" /></a>
+  <a href="https://twitter.com/ahsanhabibmuaz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00f5a0" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ahsanhabibmuaz"><img src="https://img.shields.io/badge/LinkedIn-0d1518?style=for-the-badge&logo=linkedin&logoColor=00f5a0" /></a>&nbsp;
+  <a href="https://bsky.app/profile/ahsanhabibmuaz.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0d1518?style=for-the-badge&logo=bluesky&logoColor=00f5a0" /></a>&nbsp;
+  <a href="https://www.behance.net/ahsanhabibmuaz"><img src="https://img.shields.io/badge/Behance-0d1518?style=for-the-badge&logo=behance&logoColor=00f5a0" /></a>&nbsp;
+  <a href="https://youtube.com/@AHSANHABIBMUAZ"><img src="https://img.shields.io/badge/YouTube-0d1518?style=for-the-badge&logo=youtube&logoColor=00f5a0" /></a>&nbsp;
+  <a href="https://www.facebook.com/ahsanhabibmuaz"><img src="https://img.shields.io/badge/Facebook-0d1518?style=for-the-badge&logo=facebook&logoColor=00f5a0" /></a>&nbsp;
+  <a href="https://www.instagram.com/ahsanhabibmuaz"><img src="https://img.shields.io/badge/Instagram-0d1518?style=for-the-badge&logo=instagram&logoColor=00f5a0" /></a>&nbsp;
+  <a href="https://quora.com/ahsanhabibmuaz"><img src="https://img.shields.io/badge/Quora-0d1518?style=for-the-badge&logo=quora&logoColor=00f5a0" /></a>
 </p>
 
 ---
@@ -34,17 +48,29 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript,figma,illustrator,git,github,android,c&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript,figma,illustrator,git,github,android,c&theme=dark&perline=7" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+### 📡 Signal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsanhabibmuaz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanhabibmuaz&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanhabibmuaz&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsanhabibmuaz&show_icons=true&bg_color=0d1518&title_color=00f5a0&text_color=8fead3&icon_color=00f5a0&border_color=004d40&border_radius=8&count_private=true" alt="GitHub Stats" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanhabibmuaz&layout=compact&bg_color=0d1518&title_color=00f5a0&text_color=8fead3&icon_color=00f5a0&border_color=004d40&border_radius=8&hide=jupyter%20notebook" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanhabibmuaz&background=0d1518&border=004d40&stroke=00f5a0&ring=00f5a0&fire=00f5a0&currStreakNum=00f5a0&sideNums=8fead3&currStreakLabel=00f5a0&sideLabels=8fead3&dates=8fead3&border_radius=8" alt="GitHub Streak" width="90%" />
+</p>
+
+---
+
+### 📅 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanhabibmuaz&bg_color=0d1518&color=00f5a0&line=00f5a0&point=8fead3&area=true&hide_border=false&border_color=004d40" alt="Activity Graph" width="100%" />
 </p>
 
 ---
@@ -52,7 +78,13 @@
 ### ☕ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/ahsanhabibmuaz">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  <a href="https://www.buymeacoffee.com/ahsanhabibmuaz" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="48" />
   </a>
+</p>
+
+<hr />
+
+<p align="center">
+  <sub><b>AHSAN HABIB MUAZ</b> • Live GitHub Data • Crafting Digital Experiences</sub>
 </p>
